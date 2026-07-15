@@ -123,6 +123,7 @@ class Demon(Karakter):
             print(f"\n {self.isim} 'Karanlık Ateş' kullandı ve {enemy.isim}'e 30 hasar verdi!")
             return True
         return False
+
 class Boss(Demon):
     def __init__(self,isim = "Boss"):
         super().__init__(isim)

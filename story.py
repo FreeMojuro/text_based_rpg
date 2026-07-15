@@ -239,7 +239,7 @@ def start_game():
             print("Karanlık seni yuttu. Buraya kadarmış...")
             sys.exit()
     time.sleep(2)
-    print("Savaş bitti, yüzük artık senin. Yüzüğü aldın ve krallığına döndün")
+    print("Savaş bitti, yüzük artık senindir. Yüzüğü aldın ve krallığına döndün")
     time.sleep(2)
     print("Yüzüğü krala takdim ettin, karşılığında prenses ile evlendin ve ülkede kahraman da ilan edildikten sonra huzur dolu bir hayat yaşadın.")
     time.sleep(2)
